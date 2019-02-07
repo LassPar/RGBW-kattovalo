@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kattovalo_v2", "Kattovalo_v2.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "haalarikoodi_v2", "..\..\..\045 - HaalariLED\Koodi\haalarikoodi_v2\haalarikoodi_v2.vcxproj", "{875480A7-F1F9-4C35-9E04-65B464561F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{875480A7-F1F9-4C35-9E04-65B464561F20}.Debug|x86.ActiveCfg = Debug|Win32
+		{875480A7-F1F9-4C35-9E04-65B464561F20}.Debug|x86.Build.0 = Debug|Win32
+		{875480A7-F1F9-4C35-9E04-65B464561F20}.Release|x86.ActiveCfg = Release|Win32
+		{875480A7-F1F9-4C35-9E04-65B464561F20}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0D3527-32EF-40C4-BC23-138D3542676E}
+	EndGlobalSection
+EndGlobal
